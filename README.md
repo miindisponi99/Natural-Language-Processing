@@ -1,2 +1,8 @@
-# Alternative-Datasets
-Back-tested a trading strategy by employing sentiment analysis on 15 years of Amazon reviews
+# Sentiment Analysis
+Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand and process human language. In the context of analyzing Amazon reviews, NLP techniques are used to extract meaningful information from textual data and derive insights.<br><br>
+
+Sentiment analysis, a subfield of NLP, involves determining the sentiment or opinion expressed in a given text. In the case of Amazon reviews, sentiment analysis can be applied to analyze customer feedback and determine whether the sentiment is positive, negative, or neutral towards the product or service being reviewed.<br><br>
+
+By leveraging sentiment analysis on Amazon reviews, a trading signal can be created. This signal can be used to inform trading decisions based on the sentiment of customers towards a particular product or brand. For example, if the sentiment analysis reveals consistently positive reviews for a specific product, it may indicate a positive market perception and potentially be used as a trading signal to consider investing in the company or product. Conversely, if the sentiment analysis reveals negative reviews, it may indicate potential risks or issues, which could be considered in trading decisions.<br><br>
+
+However, it's important to note that sentiment analysis is not foolproof and has its limitations. It relies on the accuracy of the NLP algorithms and the quality and diversity of the training data. Additionally, sentiment analysis may not capture more nuanced or context-specific sentiments, and human interpretation may be required to fully understand the underlying factors affecting sentiment.
